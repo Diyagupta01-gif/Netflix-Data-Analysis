@@ -32,7 +32,7 @@ This project analyzes Netflix’s Movies and TV Shows dataset to uncover trends,
    - Movies vs TV Shows count  
    - Year-wise content releases  
    - Most popular genres  
-   - Top countries producing content  
+     
 
 ---
 
@@ -41,7 +41,6 @@ This project analyzes Netflix’s Movies and TV Shows dataset to uncover trends,
 1. Netflix has more Movies (4266) than TV Shows (1968).  
 2. 2019 and 2020 had the highest number of content releases.  
 3. Most popular genres: Drama, Comedy, and Action.  
-4. Top content producing countries: USA, India, and UK.  
 
 ---
 
